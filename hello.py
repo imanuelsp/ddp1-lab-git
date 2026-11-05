@@ -1,3 +1,3 @@
 nama =  input("Masukkan nama: ")
-npm = "2606805765"
+npm =  input("Masukkan NPM: ")
 print(f"Halo! Saya {nama}, dengan NPM: {npm}")
